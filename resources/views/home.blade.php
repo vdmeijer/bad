@@ -46,7 +46,7 @@
 <header class="header" id="header"><!--header-start-->
     <div class="container">
         <figure class="logo animated fadeInDown delay-07s">
-            <a href="#"><img src="img/logo.png" alt=""></a>
+            <a href="#"><img src="img/logo.svg" alt=""></a>
         </figure>
         <h1 class="animated fadeInDown delay-07s">Welkom bij Brabantse Airsoft Division</h1>
         <ul class="we-create animated fadeInUp delay-1s">
@@ -120,32 +120,32 @@
     </div>
     <div class="portfolioContainer wow fadeInUp delay-04s">
                 <div class=" Portfolio-box sniper">
-                    <a href="#"><img src="img/Portfolio-pic1.jpg" alt=""></a>
+                    <a href="#"><img src="img/david_broeders.png" alt=""></a>
                     <h3>David Broeders</h3>
                     <p>Sniper</p>
                 </div>
                 <div class="Portfolio-box infanterie">
-                    <a href="#"><img src="img/Portfolio-pic2.jpg" alt=""></a>
+                    <a href="#"><img src="img/ton_buijnsters.png" alt=""></a>
                     <h3>Ton bruijnster</h3>
                     <p>Infanterie</p>
                 </div>
                 <div class=" Portfolio-box sniper">
-                    <a href="#"><img src="img/Portfolio-pic3.jpg" alt=""></a>
+                    <a href="#"><img src="img/unknown.png" alt=""></a>
                     <h3>Virgil de Meijer</h3>
                     <p>Sniper</p>
                 </div>
                 <div class=" Portfolio-box infanterie" >
-                    <a href="#"><img src="img/Portfolio-pic4.jpg" alt=""></a>
+                    <a href="#"><img src="img/dennis_cools.png" alt=""></a>
                     <h3>Dennis Cools</h3>
                     <p>Infanterie</p>
                 </div>
                 <div class=" Portfolio-box infanterie">
-                    <a href="#"><img src="img/Portfolio-pic5.jpg" alt=""></a>
+                    <a href="#"><img src="img/unknown.png" alt=""></a>
                     <h3>Koen van den Kieboom</h3>
                     <p>Infanterie</p>
                 </div>
                 <div class=" Portfolio-box infanterie">
-                    <a href="#"><img src="img/Portfolio-pic6.jpg" alt=""></a>
+                    <a href="#"><img src="img/unknown.png" alt=""></a>
                     <h3>Guido Pieters</h3>
                     <p>Infanterie</p>
                 </div>
@@ -156,7 +156,7 @@
     <div class="container">
         <ul>
             <li><a href="#"><img src="{{ url('./img/c-liogo1.png') }}" alt=""></a></li>
-            <li><a href="#"><img src="{{ url('./img/c-liogo2.png') }}" alt=""></a></li>
+            <li><a href="http://www.nabv.nl/" rel="nofollow"><img src="{{ url('./img/nabv.png') }}" alt=""></a></li>
             <li><a href="#"><img src="{{ url('./img/c-liogo3.png') }}" alt=""></a></li>
         </ul>
     </div>
@@ -209,7 +209,7 @@
 </div>
 <footer class="footer">
     <div class="container">
-        <div class="footer-logo"><a href="#"><img src="img/footer-logo.png" alt=""></a></div>
+        <div class="footer-logo"><a href="#"><img src="img/footer-logo.svg" alt=""></a></div>
         <span class="copyright">Copyright © 2015 | <a href="http://bootstraptaste.com/">Brabantse Airsoft Division</a> by Virgil de Meijer</span>
     </div>
     <!--
